@@ -1,13 +1,12 @@
-# TEST
-## test
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+# python
+
+1. pip install virtualenv
+2. virtualenv \(name)
+3. \(name)\\Scripts\\activate   
+   *everytime when you start
+4. pip install flask requests pymessenger wit
+
+
+# fb for developers
 
 
